@@ -1,5 +1,3 @@
-# Hi there, I'm Sudharsan! 👋
-
 <p align="center">
   
 </p>
