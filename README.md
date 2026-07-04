@@ -36,7 +36,6 @@ I am a **Computer Science Student** passionate about **Artificial Intelligence**
 - 🎓 **Education**: Computer Science Student
 - 🤖 **Interests**: Deep Learning, Generative AI & Large Language Models (LLMs)
 - 🌱 **Currently Learning**: Cloud Services, DevOps Pipelines, and advanced neural network architectures
-- 🚀 **Currently Building**: **Nexus** — An intelligent automation platform
 - 💬 **Ask me about**: Machine learning model training, data analysis, and React/Node.js development
 - ⚡ **Fun Fact**: I love experimenting with new AI tools and optimizing algorithms for maximum efficiency!
 
@@ -100,22 +99,6 @@ I am a **Computer Science Student** passionate about **Artificial Intelligence**
       </p>
       <p align="center">
         <a href="https://github.com/sudhr-gitthub/ML_Projects"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" colspan="2" valign="top" style="border: 1px solid #30363d; padding: 16px; border-radius: 8px;">
-      <h3 align="center">✨ Nexus</h3>
-      <p align="center">My newest development focus, designed as a premium intelligent automation project bridging machine learning services with modern cloud architecture.</p>
-      <p align="center">
-        <b>Tech Stack:</b><br>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/sudhr-gitthub/Nexus"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"></a>
       </p>
     </td>
   </tr>
