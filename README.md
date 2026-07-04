@@ -1,7 +1,7 @@
 # Hi there, I'm Sudharsan! 👋
 
 <p align="center">
-  <img src="banner.jpg" alt="Sudharsan's Banner" width="100%" style="border-radius: 10px;">
+  
 </p>
 
 <h1 align="center">
